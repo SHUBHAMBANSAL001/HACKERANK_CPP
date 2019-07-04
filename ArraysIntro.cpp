@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include<stdio.h>
-#include<string.h>
+#include<string.h> //No use of this header file but dont know why included
 int main(){
 	int n;
 	cin>>n;
@@ -11,6 +11,7 @@ int main(){
 	for(int i=n;i>=1;i--)
 	cout<<array[i]<<" ";
 	return 0;
+// a simplistic program ever possible
 }
 
 
