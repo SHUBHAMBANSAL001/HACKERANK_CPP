@@ -6,5 +6,6 @@ This repository consists of Hackerrank problems and my code is availabe each pro
 3)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Functions.cpp"> Functions program</a> 
 4)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/pointers.cpp"> Pointers program</a> 
 5)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/ArraysIntro.cpp"> Arrays Intro program</a> 
-6)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Struct.cpp"> Structure program</a>
+6)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/DynamicArrays.cpp"> Variable Size Arrays program</a> 
 7)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Strings.cpp"> Strings program</a> 
+8)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Struct.cpp"> Structure program</a>
