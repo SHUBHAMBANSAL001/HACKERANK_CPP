@@ -1,5 +1,5 @@
 # HACKERANK_CPP
-This repository consists of Hackerrank problems and my code is availabe each problem statement 
+This repository consists of solution to HackerRank problems in a sequential way .. 
 
 1)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/IFnumtoword.cpp"> Conditional Statements program</a>  
 2)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/ForLoop.cpp"> For Loop program</a>
