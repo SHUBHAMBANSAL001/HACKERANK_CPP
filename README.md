@@ -11,4 +11,6 @@ This repository consists of Hackerrank problems and my code is availabe each pro
 8)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Strings.cpp"> Strings program</a> 
 9)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Struct.cpp"> Structure program</a>
 10) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Class.cpp"> Class program</a>
-11) 
+11) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/BOXit!.cpp"> Box it! program</a>
+12) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Vector_Sort.cpp"> Vector Sort program</a>
+13) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Vector_erase.cpp"> Vector Erase program</a>
