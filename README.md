@@ -14,3 +14,6 @@ This repository consists of solution to HackerRank problems in a sequential way 
 11) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/BOXit!.cpp"> Box it! program</a>
 12) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Vector_Sort.cpp"> Vector Sort program</a>
 13) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Vector_erase.cpp"> Vector Erase program</a>
+14) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Inheritance_Intro.cpp"> Inheritance Intro program</a>
+15) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Rectangle_Inheritance.cpp"> Rectangle Area program</a>
+16) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Multi-Level Inheritance.cpp"> MultiLevel Inheritance program</a> 
