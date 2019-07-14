@@ -17,3 +17,6 @@ This repository consists of solution to HackerRank problems in a sequential way 
 14) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Inheritance_Intro.cpp"> Inheritance Intro program</a>
 15) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Rectangle_Inheritance.cpp"> Rectangle Area program</a>
 16) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Multi-Level Inheritance.cpp"> MultiLevel Inheritance program</a> 
+17) <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Preprocessor_work.cpp"> Preprocessor Work program</a>
+18)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Overload_Operators.cpp"> Overloading Operators program</a>
+
