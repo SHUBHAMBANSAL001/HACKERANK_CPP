@@ -1,4 +1,4 @@
-# HACKERANK_CPP
+# HACKERANK CPP SOLUTIONS
 This repository consists of solution to HackerRank problems in a sequential way .. 
 
 1)  <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/IFnumtoword.cpp"> Conditional Statements program</a>  
