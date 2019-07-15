@@ -27,15 +27,15 @@ class Student
 	}
 	void set_first_name(string f)
 	{
-	first_name = f;	
+	first_name = f; //String can be directly modified 	
 	} 	
 	string get_first_name()
 	{
-		return first_name;
+		return first_name; //Just returning the instance member variable type string
 	}
 	void set_last_name(string l)
 	{
-	last_name =""+ l;	
+	last_name =""+ l; //Operations can be performed on this type unlike char array	
 	}
 	string get_last_name()
 	{
