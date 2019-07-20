@@ -35,9 +35,9 @@ int main() {
 		cin >> A >> B;
     //Main coding part
 	try{ 
-        if (A > 1073741823LL) {
+        if (A > 1073741823LL) {//This conditional block is to check for a very large value 
             Server::compute(2, 1);
-            throw bad_alloc();
+            throw bad_alloc(); //Manually we will be calling the bad alloc in this case 
         }
         cout << Server::compute(A, B) << '\n';
     }
@@ -49,7 +49,7 @@ int main() {
     {
       cout<<"Exception:"<<e.what();
     }
-    catch(...)
+    catch(...) //All other exceptions after standard exceptions 
     {
         cout<<"Other Exception"<<endl;
     }
