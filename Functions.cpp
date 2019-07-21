@@ -4,7 +4,7 @@ using namespace std;
 int max_of_four(int a,int b,int c,int d)
 {
 	int max;
-	if((a>b)&&(a>c)&&(a>d))
+	if((a>b)&&(a>c)&&(a>d)) //Multiple check using bitwise operators
 	max=a;
 	else if((b>a)&&(b>c)&&(b>d))
 	max=b;
