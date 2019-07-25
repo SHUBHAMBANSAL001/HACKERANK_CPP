@@ -39,7 +39,7 @@ Complex operator+(Complex C,Complex D)//This is not a member function rather glo
 	temp.b= D.b+C.b;
 	return temp;
 }
-ostream & operator<< (ostream & out, const Complex & X) {
+ostream& operator<< (ostream & out, const Complex & X) { //We pass reference of ostream as we can't create its object
     if (X.b < 0) {//Here we check also that imaginary part is zero or not
         out << X.a << "-i" << -X.b;
     } else if(X.b > 0) {
