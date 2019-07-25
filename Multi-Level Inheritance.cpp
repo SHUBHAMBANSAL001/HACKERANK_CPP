@@ -31,7 +31,7 @@ class Equilateral : public Isosceles
 
 int main(){
   
-    Equilateral eqr;
+    Equilateral eqr; //Inherites all the members of parent class
     eqr.equilateral();
     eqr.isosceles();
     eqr.triangle();
