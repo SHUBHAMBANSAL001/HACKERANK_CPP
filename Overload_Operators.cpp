@@ -32,7 +32,7 @@ public:
     }
 };
 
-Complex operator+(Complex C,Complex D)
+Complex operator+(Complex C,Complex D)//This is not a member function rather global functions thats why both objects will be passed as parameter
 {
 	Complex temp;
 	temp.a= D.a+C.a;
@@ -58,7 +58,7 @@ int main()
     cin>>s2;
     x.input(s1);
     y.input(s2);
-    Complex z=x+y;
+    Complex z=x+y;//This can be understood as operator+(x,y) i.e + func call with two object arguments
     cout<<z<<endl;
 }
 
