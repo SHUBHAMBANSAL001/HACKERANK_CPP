@@ -9,7 +9,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+//Not sure about this program need help in the above macros defined 
 #if !defined toStr || !defined io || !defined FUNCTION || !defined INF
 #error Missing preprocessor definitions
 #endif 
