@@ -7,7 +7,7 @@ using namespace std;
 
 struct  Student{
 int age;
-char first_name[6];
+char first_name[6];//Last char was also included
 char last_name[5];
 int standard;
 };
