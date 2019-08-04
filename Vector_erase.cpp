@@ -17,12 +17,12 @@ int main() {
     	myvec.push_back(e);
 	}
 	int fq;
-	cin>>fq;
+	cin>>fq;//first query is for specific position
 	myvec.erase(myvec.begin()+fq-1,myvec.begin()+fq);
 	for(int i=0;i<myvec.size();i++)
 	cout<<myvec[i]<<" ";
-	int a,b;
-	cin>>a>>b;
+	int a,b; 
+	cin>>a>>b;//For giving the range to be removed
 	myvec.erase(myvec.begin()+a-1,myvec.begin()+b-1);
 	cout<<myvec.size()<<endl;
 	for(int i=0;i<myvec.size();i++)
