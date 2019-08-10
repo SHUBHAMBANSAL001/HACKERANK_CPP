@@ -6,7 +6,7 @@
 using namespace std;
 int main() 
 {
-  vector<int> myvec;
+  vector<int> myvec;//We can also allocate statically 
   long int n;
   cin>>n;
   for(int i=0;i<n;i++)
@@ -16,7 +16,7 @@ int main()
   	myvec.push_back(e);  
   }    
  
-  sort(myvec.begin(),myvec.end());
+  sort(myvec.begin(),myvec.end());//These functions are used as an indicator`
     for(int i=0;i<myvec.size();i++)
   {
   	cout<<myvec[i]<<" ";
