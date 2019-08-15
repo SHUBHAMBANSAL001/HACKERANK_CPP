@@ -31,7 +31,7 @@ int main()
 			cout<<"odd\n";
 	 }
 	else
-	    continue;
+	    continue;// It will skip all other things
          }  	
             return 0;
 }
