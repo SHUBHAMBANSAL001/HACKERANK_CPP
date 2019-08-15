@@ -35,7 +35,7 @@ class Student
 	}
 	void set_last_name(string l)
 	{
-	last_name =""+ l; //Operations can be performed on this type unlike char array	
+	last_name =""+ l; //Operations can be performed on this type unlike char array.	
 	}
 	string get_last_name()
 	{
