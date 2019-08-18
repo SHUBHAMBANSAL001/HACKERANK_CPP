@@ -90,7 +90,7 @@ int main(){
     }
 
     for(int i=0;i<n;i++)
-        per[i]->putdata(); // Print the required output for each object.
+        per[i]->putdata(); // Print the output for each object.
 
     return 0;
 
