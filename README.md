@@ -21,4 +21,5 @@ This repository consists of solution to HackerRank problems in a sequential way 
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Multi-Level Inheritance.cpp"> MultiLevel Inheritance program</a> 
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Preprocessor_work.cpp"> Preprocessor Work program</a>
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Overload_Operators.cpp"> Overloading Operators program</a>
-
+`Level - Medium`
+* <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/InheritedCode.cpp"> Inherited Code program</a>
