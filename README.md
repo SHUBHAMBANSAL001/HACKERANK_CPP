@@ -24,3 +24,4 @@ This repository consists of solution to HackerRank problems in a sequential way 
 
 `Level - Medium`
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/InheritedCode.cpp"> Inherited Code program</a>
+* <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/ExceptionalServer.cpp"> Exceptional Server program</a>
