@@ -27,5 +27,5 @@ This repository consists of solution to HackerRank problems in a sequential way 
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/ExceptionalServer.cpp"> Exceptional Server program</a>
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Virtual_Functions.cpp"> Virtual Functions program</a>
 * <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Hotel_Prices.cpp"> Hotel Prices program</a>
-* <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Cpp_Exception_Handling.cpp"> CPP Exception handling program</a>
+* <a href="https://github.com/SHUBHAMBANSAL001/HACKERANK_CPP/blob/master/Cpp_Exception_Handling.cpp"> Cpp Exception handling program</a>
 
