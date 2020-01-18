@@ -1,3 +1,4 @@
+// Aim : To convert given number to string if its less than 9 and if its greater , then checking whether its even or odd
 #include <iostream>
 #include <cstdio>
 using namespace std;
@@ -31,7 +32,7 @@ int main()
 			cout<<"odd\n";
 	 }
 	else
-	    continue;// It will skip all other things
+	    continue;// To skip all the rest cases
          }  	
             return 0;
 }
