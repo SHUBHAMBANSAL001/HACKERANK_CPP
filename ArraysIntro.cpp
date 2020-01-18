@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 #include<stdio.h>
-#include<string.h> //No use of this header file but dont know why included
 int main(){
 	int n;
 	cin>>n;
