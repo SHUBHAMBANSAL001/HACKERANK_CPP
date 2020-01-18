@@ -1,3 +1,4 @@
+//Aim: To print the reverse of array
 #include <iostream>
 using namespace std;
 #include<stdio.h>
@@ -11,7 +12,6 @@ int main(){
 	for(int i=n;i>=1;i--)
 	cout<<array[i]<<" ";
 	return 0;
-// a simplistic program ever possible
 }
 
 
