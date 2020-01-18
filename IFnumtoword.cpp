@@ -10,7 +10,7 @@ cin>>check;
 if(check>9){
 	cout<<"Greater than 9";
 }else{
-	cout<<a[check];
+	cout<<a[check]; //Reference the particular number from array index
 }
 }	
 int main()
