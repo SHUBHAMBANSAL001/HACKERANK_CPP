@@ -1,3 +1,4 @@
+// Aim: To check the greatest of the four number entered
 #include <iostream>
 #include <cstdio>
 using namespace std;
@@ -21,5 +22,5 @@ int main() {
     printf("%d", ans);
     return 0;
 }
-
+// If it can be optimised further than generate a pull request on this code so that i can learn too. !
 
