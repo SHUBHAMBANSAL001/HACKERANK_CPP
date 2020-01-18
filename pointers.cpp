@@ -1,5 +1,5 @@
-#include <stdio.h>
-//Small implementation of pointers 
+//Basic arithmetics on pointers
+#include <stdio.h> 
 void update(int *a,int *b) {
 int c = *a;
 int d = *b;
