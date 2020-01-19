@@ -1,3 +1,4 @@
+//Aim: To perform basic operations on const char type strings
 #include <iostream>
 #include <string>
 using namespace std;
