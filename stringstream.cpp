@@ -1,3 +1,4 @@
+//Aim : Program to fetch the numbers inside the input string
 #include <sstream>
 #include <vector>
 #include <iostream>
