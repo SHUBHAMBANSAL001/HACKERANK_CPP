@@ -1,4 +1,4 @@
-# HACKERANK CPP SOLUTIONS
+# HACKERANK C++ SOLUTIONS
 ---
 This repository consists of solution to HackerRank problems in a sequential way .. 
 
